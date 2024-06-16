@@ -1,8 +1,78 @@
-# React + Vite
+ZEN CLASS TICKETING SYSTEM FRONTEND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GITHUB URL : https://github.com/Syedmeeran14/ticketing-system-frontend.git
 
-Currently, two official plugins are available:
+NETLIFY URL : https://zenclass-ticketing-system.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mentors
+1. Can able to view all the ticket
+2. Can able to manage their tickets
+3. Can find ticket details of any student
+4. Can able to chat with students
+
+Students
+1. Can able to Create Queries
+2. Can able to view all their tickets
+3. Can able to chat with mentors
+
+Guards
+
+In this project i created a hook(UseVerifyRole.jsx) to verify the user based on their id and role and i used this hook with three guarding conponents
+
+1. MentorGuard.jsx - Used for Components for mentors
+2. StudentGuard.jsx - Used for components for students
+3. CommonGuard.jsx - Used for common components
+
+USERS : 
+
+MENTORS Login details
+
+email : mentor1@gmail.com
+password : m1
+
+email : mentor2@gmail.com
+password : m2
+
+email : mentor3@gmail.com
+password : m3
+
+email : mentor4@gmail.com
+password : m4
+
+email : mentor5@gmail.com
+password : m5
+
+email : mentor6@gmail.com
+password : m6
+
+STUDENTS login details
+
+email : student1@gmail.com
+password : s1
+
+email : student2@gmail.com
+password : s2
+
+email : student3@gmail.com
+password : s3
+
+email : student4@gmail.com
+password : s4
+
+email : student5@gmail.com
+password : s5
+
+email : student6@gmail.com
+password : s6
+
+email : student7@gmail.com
+password : s7
+
+email : student8@gmail.com
+password : s8
+
+email : student9@gmail.com
+password : s9
+
+email : student10@gmail.com
+password : s10
